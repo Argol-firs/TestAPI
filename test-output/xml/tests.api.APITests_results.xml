@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestAPI"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2,938">
+    <properties></properties>
+
+
+
+            <testcase
+                name="usersSecondPage"
+                time="0,310"
+                classname="tests.api.APITests">
+            </testcase>
+            <testcase
+                name="sortedYearListResource"
+                time="0,313"
+                classname="tests.api.APITests">
+            </testcase>
+            <testcase
+                name="falseAutorizationUsers"
+                time="1,922"
+                classname="tests.api.APITests">
+            </testcase>
+            <testcase
+                name="trueAutorizationUsers"
+                time="0,393"
+                classname="tests.api.APITests">
+            </testcase>
+</testsuite>
